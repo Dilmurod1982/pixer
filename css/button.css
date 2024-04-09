@@ -1,0 +1,16 @@
+.button {
+    background-color: transparent;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-link {
+    
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background-color: #00BAFC;
+    border-radius: 0.5rem;
+}
