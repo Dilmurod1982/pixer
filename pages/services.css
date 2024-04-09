@@ -44,6 +44,7 @@
     display: flex;
     background-color: #FFFFFF;
     gap: 40px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);;
 }
 .card-img {
     width: 200px;
