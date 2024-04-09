@@ -36,6 +36,7 @@
 .cards-ul {
 }
 .cards-list {
+    list-style: none;
 }
 .cards-list-link {
 }
