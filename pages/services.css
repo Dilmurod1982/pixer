@@ -1,0 +1,89 @@
+.p-services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    width: 1300px;
+}
+.p-services-h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+.p-services-text {
+    width: 800px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    text-align: center;   
+}
+
+.cards {
+    width: 1300px;
+    background-color: #F4F4F4;
+    padding-top: 80px;
+    padding-left: 248px;
+    padding-right: 248px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+}
+.cards-ul {
+}
+.cards-list {
+}
+.cards-list-link {
+}
+.card {
+    padding: 32px;
+    display: flex;
+    background-color: #FFFFFF;
+    gap: 40px;
+}
+.card-img {
+    width: 200px;
+}
+.card-right-box {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.card-right-box-h1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+}
+.card-right-box-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+.card-right-box-ul {
+    list-style-position: inside;
+}
+.card-right-box-list {
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.buttons {
+}
+.job-btn {
+}
+.job-btn-link {
+}
+.services-btn-two {
+}
+.services-btn-two-link {
+}
